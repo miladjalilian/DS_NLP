@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dsnlp:
+    image: dsnlp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
