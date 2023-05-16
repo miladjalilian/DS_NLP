@@ -2,7 +2,7 @@
 # coding: utf-8
 
 
-
+#milad
 import cv2
 import numpy as np
 import pytesseract
